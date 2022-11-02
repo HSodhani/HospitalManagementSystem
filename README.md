@@ -26,5 +26,4 @@ Netbeans, java developer kit
 ```
 
 
-## NUID : 002770306
 
