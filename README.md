@@ -1,7 +1,7 @@
 # Hospital Management System using JavaSwing
 
-Created a java-swing based Health Management Portal for assignment (INFO-1500)
-The scope of the assignment is :
+Created a java-swing based Health Management Portal 
+The scope of the project is :
 - For people to find hospitals in their community
 - To perform CRUD operations on person, patient, community and their encounters
 - For doctors to add encounter and change Vital Signs of the patients
